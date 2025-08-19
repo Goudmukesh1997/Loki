@@ -1,6 +1,6 @@
-public class Code2 {
-    integer a = 800;
-    integer b = 700;
+public class Apex2 {
+    integer a = 1200;
+    integer b = 1500;
     integer c;
     public void add(){
         c = a+b;
