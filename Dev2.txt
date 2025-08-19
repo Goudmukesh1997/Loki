@@ -1,6 +1,5 @@
 public class Dev2 {
     public static void method2(){
-        system.debug('Hello world');
+        System.debug('Debug message');
     }
-
 }
