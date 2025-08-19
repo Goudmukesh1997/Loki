@@ -1,0 +1,7 @@
+public class Dev1 {
+    public void method1(){
+        system.debug('Hiii from method1');
+    }
+    
+
+}
