@@ -1,0 +1,15 @@
+public class Code2 {
+    integer a = 800;
+    integer b = 700;
+    integer c;
+    public void add(){
+        c = a+b;
+        system.debug(c);
+    }
+    public static void sub(){
+        integer d;
+        d = c-100;
+        system.debug(d);
+    }
+
+}
